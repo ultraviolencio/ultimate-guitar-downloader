@@ -61,7 +61,7 @@ def get_urls(inf: str) -> List[str]:
     """
     Get urls from input file (inf). Accepts text files
     """
-    files = []
+    files = [https://es.ultimate-guitar.com/tab/lana-del-rey/meet-me-in-the-pale-moonlight-tabs-3796868]
     with open(inf, 'r') as f:
         for line in f: 
             files.append(clean_urls(line))
