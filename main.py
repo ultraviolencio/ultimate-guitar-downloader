@@ -8,7 +8,7 @@ import os
 def get_download_request_headers(url: str) -> dict:
     """
     create headers for download request
-    copied from https://tabs.ultimate-guitar.com/tab/metallica/nothing-else-matters-guitar-pro-225441
+    copied from https://es.ultimate-guitar.com/tab/lana-del-rey/meet-me-in-the-pale-moonlight-tabs-3796868
     """
     headers = {
         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
